@@ -5,3 +5,9 @@
 
 ## How it's working?
 #### The app use "Google Translate" for translating words, if translated word from "Google Translate" is not correct for WocaBee than word with correct translate will save to file and will use this word from file
+
+## How to run?
+#### You can im 
+> Windows
+#### or
+> Linux
