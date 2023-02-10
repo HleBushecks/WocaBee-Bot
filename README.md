@@ -9,5 +9,5 @@
 ## Requirements
 > Python3, WebDriver
 #### Python modules
-> selenium==4.8.0 
+> selenium==4.8.0
 > googletrans==3.1.0a0 
