@@ -12,3 +12,6 @@
 > selenium==4.8.0 
 ###### and
 > googletrans==3.1.0a0 
+
+## How to use config?
+#### First and second languages are languages use in a test
