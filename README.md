@@ -10,4 +10,5 @@
 > Python3, WebDriver
 #### Python modules
 > selenium==4.8.0
+and
 > googletrans==3.1.0a0 
