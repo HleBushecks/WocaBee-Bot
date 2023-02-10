@@ -13,5 +13,12 @@
 ###### and
 > googletrans==3.1.0a0 
 
+## How to start?
+#### For starting run the command
+> python main.py
+#### The app has autologin if you set login and password in config.py and run with flag
+> python main.py --autologin
+
 ## How to use config?
 #### First and second languages are languages use in a test
+
