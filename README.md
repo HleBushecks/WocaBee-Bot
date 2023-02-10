@@ -7,8 +7,6 @@
 #### The app use "Google Translate" for translating words, if translated word from "Google Translate" is not correct for WocaBee than word with correct translate will save to file and will use this word from file
 
 ## Requirements
-...
-Python3, WebDriver
-...
+> Python3, WebDriver
 #### Python modules
 > selenium==4.8.0 googletrans==3.1.0a0 
